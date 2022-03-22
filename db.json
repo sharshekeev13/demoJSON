@@ -14,6 +14,12 @@
     { "firstName": "Dastan", "secondNAme": "Sharshekeev", "position" : "Manager", "salary" : "50000" }
   ],
 
+  "budget" : [
+    {"socialmedia":"instagram","num":156156},
+    {"socialmedia":"facebook","num":216516},
+    {"socialmedia":"twitter","num":354867},
+    {"socialmedia":"youtube","num":431561}
+   ],
   
   "profile": {
     "name": "sharshekeev13"
