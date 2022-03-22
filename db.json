@@ -13,19 +13,7 @@
     { "firstName": "Dastan", "secondNAme": "Sharshekeev", "position" : "Manager", "salary" : "50000" },
     { "firstName": "Dastan", "secondNAme": "Sharshekeev", "position" : "Manager", "salary" : "50000" }
   ],
-  
-  "budgetcategory":{
-    "instagram":23156,
-    "twitter":12312,
-    "youtube":21564,
-    "facebook":1896
-  },
-  
-  "allbudget":{
-    "num":500000
-  }
-  
-  
+
   
   "profile": {
     "name": "sharshekeev13"
