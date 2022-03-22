@@ -1,8 +1,11 @@
 {
-  "posts": [
-    { "title": "Buy new notebook", "detail": "I need to buy some new notebook for my new jod", "dificulty" : "HARD" },
-    { "title": "New Business cards", "detail": "Monthly log - Document the day in one line" , "dificulty" : "MEDIUM"},
-    { "title": "Philly area buro meet", "detail": "Household first AID kit" , "dificulty" : "EASY"}
+  "listOfEmployee": [
+    { "firstName": "Dastan", "secondNAme": "Sharshekeev", "position" : "Manager", "salary" : "50000" },
+    { "firstName": "Dastan", "secondNAme": "Sharshekeev", "position" : "Manager", "salary" : "50000" },
+    { "firstName": "Dastan", "secondNAme": "Sharshekeev", "position" : "Manager", "salary" : "50000" },
+    { "firstName": "Dastan", "secondNAme": "Sharshekeev", "position" : "Manager", "salary" : "50000" },
+    { "firstName": "Dastan", "secondNAme": "Sharshekeev", "position" : "Manager", "salary" : "50000" },
+    { "firstName": "Dastan", "secondNAme": "Sharshekeev", "position" : "Manager", "salary" : "50000" }
   ],
   "profile": {
     "name": "sharshekeev13"
