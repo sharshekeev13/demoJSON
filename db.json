@@ -15,10 +15,10 @@
   ],
 
   "budget" : [
-    {"socialmedia":"instagram","num":156156},
-    {"socialmedia":"facebook","num":216516},
-    {"socialmedia":"twitter","num":354867},
-    {"socialmedia":"youtube","num":431561}
+    {"socialmedia":"instagram","members":15615621,"budget":15616},
+    {"socialmedia":"facebook","members":21651612,"budget":15616},
+    {"socialmedia":"twitter","members":35486712,"budget":15616},
+    {"socialmedia":"youtube","members":43156112,"budget":15616}
    ],
   
   "profile": {
