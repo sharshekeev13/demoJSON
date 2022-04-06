@@ -28,6 +28,14 @@
     {"title":"nuu sdelal navernoe","discription":"jasjdja sdjpasjdopas dasjhdj asjkdasg ash dasd"}
    ],
   
+  "Districts" : [
+    {"district": "Pervomayskiy","number":23156},
+    {"district": "Oktyabrskiy","number":12365},
+    {"district": "Leninskiy","number":35495},
+    {"district": "Sverdlovskiy","number":56498}
+    
+   ],
+  
   "profile": {
     "name": "sharshekeev13"
   }
