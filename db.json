@@ -28,6 +28,13 @@
     {"title":"nuu sdelal navernoe","discription":"jasjdja sdjpasjdopas dasjhdj asjkdasg ash dasd"}
    ],
   
+  "directions" : [
+    {"firstName":"Dastan","secondName":"Sharshekeev","title":"IPO","description":"do a lot of thins for improve your skills in IPO"},
+    {"firstName":"Dastan","secondName":"Sharshekeev","title":"IPO","description":"do a lot of thins for improve your skills in IPO"},
+    {"firstName":"Dastan","secondName":"Sharshekeev","title":"IPO","description":"do a lot of thins for improve your skills in IPO"},
+    {"firstName":"Dastan","secondName":"Sharshekeev","title":"IPO","description":"do a lot of thins for improve your skills in IPO"}
+   ],
+  
   "Districts" : [
     {"district": "Pervomayskiy","number":23156},
     {"district": "Oktyabrskiy","number":12365},
